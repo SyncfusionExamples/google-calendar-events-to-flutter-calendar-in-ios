@@ -1,2 +1,2 @@
-# google-calendar-events-to-flutter-calendar-in-ios
-How to load the google calendar events to the Flutter Calendar (SfCalendar) in iOS 
+# add-google-event-calendar-to-flutter-event-calendar
+How to add google calendar events to the Flutter event calendar (SfCalendar)
